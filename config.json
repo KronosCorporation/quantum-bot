@@ -3,10 +3,10 @@
 	"MultiIdioma": [true, ""],
 	"Propietario": [
 	["51991378809", "Matt_M", false],
-	["51995386439", "N3K0SM1C", true]
+	["595975701824", "❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞", true]
 	],
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "QUANTUM-BOT by ❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞",
 	"MinimoDeUsuarios": 3,
 	"Limits": {"gms": 10, "dls": 20, "rdn": 30},
 	"DBtype": "json",
